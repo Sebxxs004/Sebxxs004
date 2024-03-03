@@ -19,7 +19,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sebxxs004&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sebxxs004&label=Profile%20Views&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Sebxxs004/Sebxxs004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
